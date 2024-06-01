@@ -271,4 +271,4 @@ caso o código proposto esteja coerente com a necessidade do software ele é ace
 
 ### documentações
 - [Documentação oficial](https://git-scm.com/docs/git#_git_commands)
-- [Publicação sobre Git](https://davinyleticia.bio/ensino/introducao-git-e-principais-comandos/)
+- [Publicação sobre Git](https://davinyleticia.bio/ensino/introducao-git-e-principais-comandos/) (blog da Daviny Letícia)
