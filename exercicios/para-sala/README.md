@@ -3,7 +3,7 @@
 ## Nome do Exercicio
 
 - Introdução ao terminal e conceitos básicos de navegaçao e manipulacao de arquivos.
-- Criando um repositiro remoto
+- Criando um repositorio remoto
 - Criando um repositorio local
 - Criando um perfil personalizado para o github
 ---
